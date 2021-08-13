@@ -1,0 +1,50 @@
+@charset "UTF-8";
+@font-face {
+    font-family:'FonteLogo';
+    src: url("../_fonts/TitilliumWeb-Regular.ttf");
+}
+
+body {
+    font-family:'FonteLogo';
+}
+
+ul#album-multimidia {
+    width: 700px;
+    margin: 0 auto;
+    padding: 50px;
+    overflow: hidden;
+    list-style: none;
+}
+
+ul#album-multimidia li {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 5px solid white;
+    background-color: #ffffff;
+    box-shadow: 1px 1px 3px rgba(0,0,0,0.4);
+}
+
+ul#album-multimidia li span {
+    opacity: 0;
+}
+
+ul#album-multimidia li#foto01 {
+    background: url('../_imagens/bardo1.jpg') no-repeat;
+}
+
+ul#album-multimidia li#foto02 {
+    background: url('../_imagens/mardreddesenho1.jpg') no-repeat;
+}
+
+ul#album-multimidia li#foto03 {
+    background: url('../_imagens/dicasdecombatecapa1.jpg') no-repeat;
+}
+
+    ul#album-multimidia li#foto04 {
+        background: url('../_imagens/Multimidia1.jpg') no-repeat;
+    }
+
+       
+         

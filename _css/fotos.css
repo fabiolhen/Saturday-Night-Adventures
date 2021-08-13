@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+section#conteudo {
+    width: 1100px;
+    margin: auto;
+}
+
+iframe#frame-personagens {
+    width: 420px;
+    height: 440px;
+    border: none;
+    margin-left: 50px;
+    overflow: hidden;
+    margin-bottom: 185px;
+}
+
+iframe#frame-personagens::-webkit-scrollbar {
+    display: none;
+}
