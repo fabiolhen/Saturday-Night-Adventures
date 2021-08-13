@@ -1,2 +1,2 @@
 # Saturday Night Adventures 🐉
- Our RPG Seasons - Dungeons and Dragons
+ Our **RPG Seasons** - *Dungeons and Dragons*
